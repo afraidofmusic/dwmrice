@@ -1,0 +1,2 @@
+#!/bin/bash
+surf "https://genius.com/search?q=$1"

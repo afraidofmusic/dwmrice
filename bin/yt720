@@ -1,0 +1,5 @@
+#!/bin/bash
+if [ ! -d  ~/Downloads/youtube-dl ]; then
+      echo "Creating directory" && mkdir -p ~/Downloads/youtube-dl;
+fi
+youtube-dl -f 'bestvideo[height<=720]+bestaudio/best[height<=720]' -o "~/Downloads/youtube-dl/%(uploader)s - %(title)s.%(ext)s" $1

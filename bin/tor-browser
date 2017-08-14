@@ -1,0 +1,2 @@
+#!/bin/bash
+sh -c '"/home/can/.local/bin/tor-browser/Browser/start-tor-browser" --detach || ([ !  -x "/home/can/.local/lib/tor-browser/Browser/start-tor-browser" ] && "$(dirname "$*")"/Browser/start-tor-browser --detach)' dummy %k
