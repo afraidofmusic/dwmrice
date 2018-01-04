@@ -1,2 +1,2 @@
 # dwmrice
-My config files for my dwm setup.
+Config files for my dwm setup.
