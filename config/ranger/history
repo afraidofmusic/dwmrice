@@ -1,0 +1,50 @@
+cd Music/
+cd /home/can/.nrp/Bear Films
+shell rm **.torrent
+rename oomox_Base16-Gruvbox-Dark
+rename King Crimson
+rename Queen
+cd Downloads/
+rename backup-st
+
+rename gentoo-install-amd64-minimal-20170727.iso
+find Dir
+shell mkdir got
+rename Tim Tales
+rename Hot Older Male - Hot Bottom Daddy in Action - Will fucks Karl.mov
+rename HotOlderMale - Hot Bottom Daddy in Action - Will fucks Karl.mov
+rename HotOlderMale - Osiris Blade Breeds Daddy Jake Marshall.mp4
+rename HotOlderMale - Rex and Price.wmv
+rename HotOlderMale - Lobo's Bear Gang Bang Lobo Al and Mitch Baer.avi
+rename Pantheon - Abandon - Real Men Volume 19.avi
+rename Pantheon - City of Men - Real Men Volume 18.avi
+rename Pantheon - Unsuitable.mp4
+rename Pantheon - Real Men Vol 28 - Muscles & Fur 2013.wmv
+rename Pantheon - Real Men Vol 34 - Bear Week Spain.wmv
+rename PantheonBear - Bear Plumbing Inc.mp4
+rename Pantheon - Bear Plumbing Inc.mp4
+bulkrename 
+rename Marttin Pe and Vince Stewart.mp4
+rename Scott Snow and Travis Woods.mp4
+rename Tom Carlton Vincent Viau.mp4
+cd /home/can/.local/bin/
+mkdir chrome
+find t
+rename Game.of.Thrones.S07E03.720p.WEB.h264-TBS[eztv].mkv
+rename 
+rename 03 - Queen's Justice.mkv
+rename Game.of.Thrones.S07E04.720p.WEB.h264-TBS[eztv].mkv
+open_with 
+rename 04 - Spoils of War.mkv
+find
+flat 100
+flat 0
+cd .mozilla/
+mkdir asd
+cd .nrp
+cd 
+mkdir game
+delete
+rename Game.of.Thrones.S07E04.mkv
+rename Game.of.Thrones.S07E04.srt
+cd /home/can/Downloads
